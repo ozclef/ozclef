@@ -135,3 +135,20 @@ ___________
 * applied software solutions
 
 ---
+
+
+----
+
+
+
+# Nota de implementación
+
+Durante el proceso de integración y despliegue se identificó una limitación externa relacionada con requisitos de validación de identidad y número telefónico exigidos por ciertos servicios de terceros.
+
+La funcionalidad dependiente de dichos servicios quedó pendiente no por una limitación técnica del proyecto, sino por requisitos administrativos y de validación ajenos al desarrollo.
+
+El proyecto mantiene compatibilidad para futuras integraciones una vez cumplidos los requisitos correspondientes.
+
+Fecha: 19 Junio 2026
+Autor: Oscar Cruz
+

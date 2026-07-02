@@ -140,6 +140,32 @@ ___________
 ---
 
 
+
+-----
+
+
+##  Chat websocket EFIMERO realtime
+
+https://github.com/ozclef/chat-p2p-efimero
+
+```
+sql
+jwt
+javascript
+html
+css + scss
+backend
+realtime
+supabase
+basic database
+```
+
+
+<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/d470755c-4786-4000-b25b-e88b6d4c6c12" />
+
+
+----
+
 ----
 
 

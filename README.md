@@ -29,6 +29,9 @@ material interesante 🔐⚙️
 
 ---
 
+
+<img width="664" height="982" alt="image" src="https://github.com/user-attachments/assets/66eea4c6-f80d-48a8-ae31-b7485d595eb4" />
+
 ---
 
 # 👤 PERFIL (README principal GitHub)

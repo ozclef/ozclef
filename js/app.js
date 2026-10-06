@@ -24,3 +24,28 @@ return `
 		//function viewApp ();
 viewApp();
 //	 
+
+
+async function viewApp(){
+  //const feed = await loadJSON("data/feed.json");
+/*  let out = `<div class="card-post"><h2>Feed</h2>`;
+ feed.forEach(p=>{
+    out += `
+    <div class="feed-item" aling-items="column">
+      <div>
+        <h3>${p.title}</h3>
+        <p>${p.text}</p>
+	  <br>
+      <img  class="thumb" loading="lazy" width="500px" src="${p.img}"> 
+	  <br>
+        <a class="btn" href="${p.url}" color="black">Abrir</a>
+		</div>
+      </div>
+	  
+	  `;
+  });
+  return out + `</div>`;
+  */
+}
+
+

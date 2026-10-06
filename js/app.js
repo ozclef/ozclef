@@ -22,7 +22,7 @@ const app = document.getElementById("app");
 	  </aside>
 			<!--- DIV DE LAYOUT   ---------->
 		</div>
-    `
+    `;
 }
 app ();
 

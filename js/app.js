@@ -1,6 +1,9 @@
+
+const app = document.getElementById("app");
+
 async function loadHTML() {
-    const response = await fetch("https://oscarcruzdiaz.vercel.app/");
+    const response = await fetch("app");
     const html = await response.text();
 
-    document.querySelector("#projects").innerHTML = html;
+    document.querySelector("https://oscarcruzdiaz.vercel.app").innerHTML = html;
 }

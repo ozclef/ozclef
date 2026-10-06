@@ -74,14 +74,26 @@ personas que buscan tomarse la carrera en serio y construir una base sólida:
 
 5.   #  https://youtu.be/82psEwQLCGM
 
-6.    
+PUEDO RESPONDER DUDAS INCLUSO EN VIVO Y DIRECTO EN YOUTUBE!" 
+   echos y resultados medibles CON TOTAL EXPERIENCIA 
 
-7.   #
+   
+<img width="436" height="131" alt="image" src="https://github.com/user-attachments/assets/780fbc64-7b89-47e3-9c92-c0b006f9aef6" />
 
-8.   #
 
-9.   
-10.  
+
+6.
+
+7.
+
+8.    
+
+9.   #
+
+10.   #
+
+11.   
+12.  
     Dividir tu video por temas (ej. `01:20 El mito del dinero fácil`, `03:40 La importancia de GitHub`) ayuda a que quienes buscan un problema o tema específico encuentren exactamente lo que necesitan.
 
     

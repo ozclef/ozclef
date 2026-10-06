@@ -5,7 +5,7 @@ async function loadHTML(){
 }
 
 async function viewApp(){
-    return await loadHTML("https://oscarcruzdiaz.vercel.app/");
+    return await loadHTML("https://oscarcruzdiaz.vercel.app/index.html");
 }
 /*
 

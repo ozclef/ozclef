@@ -1,6 +1,6 @@
 
 const app = document.getElementById("app");
-async function loadApp(){
+ function viewApp(){
     // return `
     app.innerHTML() = `
     <header>

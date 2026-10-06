@@ -21,5 +21,6 @@ return `
 }
 //}
 	//app.innerHTML =	
-		function viewApp ();
+		//function viewApp ();
+viewApp();
 //	 

@@ -1,9 +1,12 @@
 
 const app = document.getElementById("app");
- function viewApp(){
     // 
-    //app.innerHTML() = `
-	 return `
+ //
+function viewApp(){
+	//
+	return `
+	
+    //
     <header>
 			<div><strong><a href="/">
 			Os - Dev
@@ -22,6 +25,6 @@ const app = document.getElementById("app");
 	  </aside>
 			<!--- DIV DE LAYOUT   ---------->
 		</div>
-    `;
+   `;
 }
-viewApp ();
+app.innerHTML() = viewApp ();

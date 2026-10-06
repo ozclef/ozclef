@@ -1,6 +1,6 @@
 const app = document.getElementById("app");
-async function loadHTML(path){
-    const res = await fetch(path);
+async function loadHTML(){
+    const res = await fetch();
     return await res.text();
 }
 

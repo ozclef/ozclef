@@ -1,7 +1,7 @@
 //    const response = await fetch("app");
 //  async function loadHTML(){
-async function app(){
 const app = document.getElementById("app");
+async function app(){
     return `
     
     <header>

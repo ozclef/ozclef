@@ -2,8 +2,8 @@
 //  async function loadHTML(){
 const app = document.getElementById("app");
 async function viewApp(){
-    return `
-    
+    // return `
+    app.innerHTML() = `
     <header>
 			<div><strong><a href="/">
 			Os - Dev

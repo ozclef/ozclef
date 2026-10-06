@@ -23,8 +23,8 @@ const app = document.getElementById("app");
 			<!--- DIV DE LAYOUT   ---------->
 		</div>
     `
-//app.innerHTML = html;
 }
+app ();
 
 /*
     return await loadHTML("https://oscarcruzdiaz.vercel.app/index.html");

@@ -1,7 +1,7 @@
 //    const response = await fetch("app");
 //  async function loadHTML(){
 const app = document.getElementById("app");
-async function viewApp(){
+async function loadApp(){
     // return `
     app.innerHTML() = `
     <header>
@@ -24,9 +24,9 @@ async function viewApp(){
 		</div>
     `;
 }
-loadApp ();
 
 /*
+loadApp ();
     return await loadHTML("https://oscarcruzdiaz.vercel.app/index.html");
     return await res.text();
 }

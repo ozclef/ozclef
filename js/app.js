@@ -1,6 +1,6 @@
 //    const response = await fetch("app");
 const app = document.getElementById("app");
-async function loadHTML(https://oscarcruzdiaz.vercel.app/index.html"){
+async function loadHTML("oscarcruzdiaz.vercel.app/index.html"){
     const res = await fetch();
     return await res.text();
 }

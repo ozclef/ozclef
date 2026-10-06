@@ -1,5 +1,4 @@
-//    const response = await fetch("app");
-//  async function loadHTML(){
+
 const app = document.getElementById("app");
 async function loadApp(){
     // return `
@@ -25,18 +24,3 @@ async function loadApp(){
     `;
 }
 loadApp ();
-
-/*
-    return await loadHTML("https://oscarcruzdiaz.vercel.app/index.html");
-    return await res.text();
-}
-
-
-async function loadHTML() {
-    const res = await fetch();
-    //const html = await response.text();
-    const url = "https://oscarcruzdiaz.vercel.app/";
-
-    //document.querySelector("https://oscarcruzdiaz.vercel.app").innerHTML = html;
-}
-*/

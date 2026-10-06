@@ -24,9 +24,9 @@ async function loadApp(){
 		</div>
     `;
 }
+loadApp ();
 
 /*
-loadApp ();
     return await loadHTML("https://oscarcruzdiaz.vercel.app/index.html");
     return await res.text();
 }

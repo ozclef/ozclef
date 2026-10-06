@@ -2,11 +2,10 @@
 const app = document.getElementById("app");
     // 
  //
-function viewApp(){
-	//
-	return `
-	
+//function viewApp(){
+	//  	return `
     //
+app.innerHTML =  `
     <header>
 			<div><strong><a href="/">
 			Os - Dev
@@ -27,4 +26,4 @@ function viewApp(){
 		</div>
    `;
 }
-app.innerHTML() = viewApp ();
+//	 viewApp ();

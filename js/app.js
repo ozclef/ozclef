@@ -1,10 +1,8 @@
 
 const app = document.getElementById("app");
-    // 
- //
-//function viewApp(){
-	//
+function viewApp(){
     //app.innerHTML =  `
+    // 
 return `
     <header>
 	<div><strong><a href="/">Os - Dev</a></strong>	</div>	
@@ -20,5 +18,8 @@ return `
 			<!--- DIV DE LAYOUT   ---------->
 		</div></div>
    `;
+}
 //}
-//	 viewApp ();
+	//app.innerHTML =	
+		function viewApp ();
+//	 

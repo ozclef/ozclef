@@ -23,4 +23,4 @@ async function loadApp(){
 		</div>
     `;
 }
-loadApp ();
+viewApp ();

@@ -3,9 +3,9 @@ const app = document.getElementById("app");
     // 
  //
 //function viewApp(){
-	//  	return `
-    //
-app.innerHTML =  `
+	//
+    //app.innerHTML =  `
+return `
     <header>
 	<div><strong><a href="/">Os - Dev</a></strong>	</div>	
 		<nav>

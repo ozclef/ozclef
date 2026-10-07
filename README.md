@@ -3,6 +3,26 @@
 ##    Sigue leyendo:
 
 
+### 		 formación Academica 
+
+https://ozclef.github.io/sep-docs-urls 
+
+>Docs web- sep 
+	deployement branch main github
+	
+
+https://ozclef.github.io/sep-docs-urls
+
+">Educacion- sep 2</a></li>
+	deployement branch main netlify
+
+    
+https://github.com/ozclef/sep-docs-pdf
+
+          
+
+## OBJETIVO DE PROGRAMACIÓN
+
 
 Cuando el objetivo no es solo acumular números vacíos, sino conectar con personas que realmente se beneficien de tu experiencia real y honesta en el desarrollo de software, las palabras 
 de estudiantes, principiantes desilusionados y 

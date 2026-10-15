@@ -69,8 +69,78 @@ Experiencia en:
 - SQL y modelado de bases de datos
 - Sistemas ligeros offline-first (localStorage / prototipos)
 ```
+```md
+[image](https://www.google.com/s2/favicons?domain=https://www.intel.com\&sz=32)
+
+ un SSD y más RAM pueden mejorar mucho la experiencia, pero no aumentan la potencia de cálculo del procesador. Tu equipo admite hasta 8 GB de DDR3L-1600 y un SSD SATA de 2,5 pulgadas, según las referencias del modelo 14-bs0xx.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://h30434.www3.hp.com\&sz=32)
+
+
+desarrollador autodidacta en etapa inicial,
+con experiencia práctica variada y criterio técnico en desarrollo,
+pero todavía construyendo la consistencia necesaria para consolidarte como JR profesional.
+No  domino toda la arquitectura de sistemas empresariales.
+Las dos cosas pueden ser verdad al mismo tiempo.
+
+## Mi evaluación de progreso
+
+#### desarrollado :
+
+- Construyes proyectos funcionales, no solamente ejercicios aislados.
+- Has trabajado con JavaScript, interfaces SPA, CRUD, almacenamiento local, APIs y despliegues.
+- Estás explorando autenticación, bases de datos, SQL y servicios como Supabase.
+- Ya distingues entre una demo, un producto entregable y un sistema que necesita infraestructura.
+- Empiezas a pensar en alcance, mantenimiento, costos y evidencia verificable.
+
+necesita consolidar
+
+- Git, ramas, despliegues y diagnóstico de errores con un flujo reproducible.
+- Autenticación real, permisos, validación de datos y seguridad del backend.
+- SQL, diseño de esquemas, integridad y consultas.
+- Pruebas que demuestren que las funcionalidades trabajan como afirmas.
+- Documentación que permita a otra persona ejecutar y evaluar tus proyectos.
+
+
+```
+---
+
+
+-----
+
+# 🚀    TARIFA por servicios RFC FACTURA  y codigos 
+## 💥  versión profesional de historia
+
+>REPOSITORIO D CONTRATACiÖN Y FACTURACIÓN
+> https://github.com/ozclef/contrato-servicio/tree/main
+
+>WBSITE OFICIAL PARA SOLICITAR ASSORÍA GRATUITA PARA ESCOGER EL SISTEMA DE SOFTWARE MÁS ADCUADO PARA MIS NECESIDADES SÓLIDAS
+> https://ozclef.github.io/contrato-servicio/
+
+<img width="844" height="1841" alt="Screenshot_15-10-2026_3249_ozclef github io" src="https://github.com/user-attachments/assets/32e1e5f1-b003-4231-9e45-dc3094a5c19d" />
+
+<iframe src="https://ozclef.github.io/contrato-servicio/"></iframe>
+
+### LAS TARIFAS Y SERVICIOS SON DEMASIADO PRECISAS Y PERSONALIZADAS PARA CADA PERSONA O EMPRESA SGÚN LAS NECESIDADES:
+
+Los costos nunca serán los mismos si la arquitectura de software cambia algún aspecto.
+
+```
+> he desarrollado sistemas ligeros orientados a inventario, automatización y prototipos de gestión desde 2018, con enfoque en soluciones prácticas para entornos educativos y pequeños negocios
+```
+
+* systems prototyping
+* lightweight backend thinking
+* automation tools
+* applied software solutions
 
 ---
+
+
+----
+
+
+----
 
 
 # 🧠 PROYECTOS 
@@ -221,67 +291,8 @@ bious-chatsocket Private
 ✔ pensaste en negocio (aunque sin formalizarlo aún)
 
 ---
-
-
-# 💥 6) versión profesional de historia
-
-
-
-
-
------
-```
-> he desarrollado sistemas ligeros orientados a inventario, automatización y prototipos de gestión desde 2018, con enfoque en soluciones prácticas para entornos educativos y pequeños negocios
-```
-
-
-
 ___________
 
----
-
-# 🚀 7) ASESRíA
-
-👉  no “solo frontend”
-
-* systems prototyping
-* lightweight backend thinking
-* automation tools
-* applied software solutions
-
----
-
-
-[image](https://www.google.com/s2/favicons?domain=https://www.intel.com\&sz=32)
-
- un SSD y más RAM pueden mejorar mucho la experiencia, pero no aumentan la potencia de cálculo del procesador. Tu equipo admite hasta 8 GB de DDR3L-1600 y un SSD SATA de 2,5 pulgadas, según las referencias del modelo 14-bs0xx.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://h30434.www3.hp.com\&sz=32)
-
-
-desarrollador autodidacta en etapa inicial,
-con experiencia práctica variada y criterio técnico en desarrollo,
-pero todavía construyendo la consistencia necesaria para consolidarte como JR profesional.
-No  domino toda la arquitectura de sistemas empresariales.
-Las dos cosas pueden ser verdad al mismo tiempo.
-
-## Mi evaluación de progreso
-
-#### desarrollado :
-
-- Construyes proyectos funcionales, no solamente ejercicios aislados.
-- Has trabajado con JavaScript, interfaces SPA, CRUD, almacenamiento local, APIs y despliegues.
-- Estás explorando autenticación, bases de datos, SQL y servicios como Supabase.
-- Ya distingues entre una demo, un producto entregable y un sistema que necesita infraestructura.
-- Empiezas a pensar en alcance, mantenimiento, costos y evidencia verificable.
-
-Lo que necesitas consolidar
-
-- Git, ramas, despliegues y diagnóstico de errores con un flujo reproducible.
-- Autenticación real, permisos, validación de datos y seguridad del backend.
-- SQL, diseño de esquemas, integridad y consultas.
-- Pruebas que demuestren que las funcionalidades trabajan como afirmas.
-- Documentación que permita a otra persona ejecutar y evaluar tus proyectos.
 
 
 -----
@@ -289,12 +300,6 @@ Lo que necesitas consolidar
 
 
 ----
-
-<html>
-	<script async src="https://js.stripe.com/v3/pricing-table.js"></script><stripe-pricing-table pricing-table-id="prctbl_1U1eCXE9DKIWSWdFiJtAeTiH"
-publishable-key="pk_live_51TsqWWE9DKIWSWdFO36kdZtcOb9cpCw9xPXU8gbQGwYrLiBUyyXM73Nn40Mah0WZpwNypNh54by74fXTGA5HAeNQ00GTBKVUFD">
-</stripe-pricing-table>
-</html>
 
 
 ----

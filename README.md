@@ -290,11 +290,11 @@ Lo que necesitas consolidar
 
 ----
 
-<pre>
+<html>
 	<script async src="https://js.stripe.com/v3/pricing-table.js"></script><stripe-pricing-table pricing-table-id="prctbl_1U1eCXE9DKIWSWdFiJtAeTiH"
 publishable-key="pk_live_51TsqWWE9DKIWSWdFO36kdZtcOb9cpCw9xPXU8gbQGwYrLiBUyyXM73Nn40Mah0WZpwNypNh54by74fXTGA5HAeNQ00GTBKVUFD">
 </stripe-pricing-table>
-</pre>
+</html>
 
 
 ----

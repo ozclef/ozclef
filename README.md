@@ -30,142 +30,24 @@ https://ozclef.github.io/sep-docs-urls
 >Docs web- sep 
 	deployement branch main github
 
---------	
-    
-
-	----
-          
-
-## OBJETIVO DE PROGRAMACIÓN
-
-
-Cuando el objetivo no es solo acumular números vacíos, sino conectar con personas que realmente se beneficien de tu experiencia real y honesta en el desarrollo de software, las palabras 
-de estudiantes, principiantes desilusionados y 
-profesionales júnior que buscan orientación sincera.
-
-Analizando  temas recientes (como la realidad laboral, 
-los mitos de aprender rápido, errores reales y la mentalidad profesional en México),
-aquí tienes clave y términos de estratégicos
-
------
-
-### 1\. Realidad laboral y expectativas (México y Latinoamérica)
-
-Apunta a quienes buscan saber cómo es el mercado laboral de verdad, lejos del "hype" o las promesas irreales de sueldos mágicos:
-
-*   **trabajar como programador en méxico**
-*   **realidad de ser programador**
-*   **mercado laboral tech méxico**
-*   **sueldos reales de programador**
-*   **primer trabajo como programador**
-*   **experiencia real programador junior**
-*   **conseguir trabajo de programador sin experiencia**
-
-
-###  REPO DE TARIFAS POR SERVICIOS 100% EXPERIENCIA PERSONAL 
-
-REPOSITORIO OFICIAL PUBLIC 
-> https://github.com/ozclef/contrato-servicio
-____
-
-> WEBSITE DESPLEGADA CON TABLA DE PRODUCTOS & SERVICIOS 
-**Esta es la tabla de STRIPE**
-> esto presenta el codigo fiscal por productos && Servicios OFICIALES:
-Contratación  y medio de pago sólo a través de esta plataforma
-
-> https://ozclef.github.io/contrato-servicio/
-https://ozclef.github.io/contrato-servicio/
-
-
-<img width="844" height="1841" alt="image" src="https://github.com/user-attachments/assets/6b7c82a1-744b-4abc-9e00-07cedefe2404" />
-
 -----
 
 
+## WEBSITE CV REPO + Framework SPA diseño personal
 
-## 2\. Mitos vs. Realidad (Educación y Bootcamps)
+https://oscarcruzdiaz.vercel.app/
+<img width="965" height="567" alt="Screenshot_15-10-2026_35521_oscarcruzdiaz vercel app" src="https://github.com/user-attachments/assets/721658de-5c5f-4e36-8854-28a496aac41e" />
 
+>Repo privado SEGURIDAD .
+>FRAMEWORK js + json + SPA full stack
+>
 
-Ideal para quienes están dudando o se sienten abrumados por la publicidad engañosa de cursos milagro:
+####  WEBSITE BLOG PERSONAL ONLY PEOPLE I KNOW
 
-*   **la verdad de los bootcamps de programación**
-*   **cuánto tiempo toma aprender a programar**
-*   **aprender a programar desde cero la verdad**
-*   **vale la pena estudiar programación**
-*   **errores de programador novato**
-*   **mitos de la programación**
-
------
-
-### 3\. Buenas prácticas y profesionalismo
+------
 
 
-personas que buscan tomarse la carrera en serio y construir una base sólida:
-
-*   **cómo ser un buen programador**
-*   **mentalidad de un programador**
-*   **consejos para programadores juniors**
-*   **buenas prácticas de programación**
-*   **portafolio de programador github**
-*   **qué hace un desarrollador de software en el día a día**
-
------
-
-
-
-PUEDO RESPONDER DUDAS INCLUSO EN VIVO Y DIRECTO EN YOUTUBE!" 
-   echos y resultados medibles CON TOTAL EXPERIENCIA 
-
-   
-<img width="436" height="131" alt="image" src="https://github.com/user-attachments/assets/780fbc64-7b89-47e3-9c92-c0b006f9aef6" />
-
-
-
-6.
-
-7.
-
-8.    
-
-9.   #
-
-10.   #
-
-11.   
-12.  
-    Dividir tu video por temas (ej. `01:20 El mito del dinero fácil`, `03:40 La importancia de GitHub`) ayuda a que quienes buscan un problema o tema específico encuentren exactamente lo que necesitan.
-
-    
------
-
-
-<!--
-**ozclef/ozclef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
----
-material interesante 🔐⚙️ 
-
-* experiencia real ✔️
-* proyectos ✔️
-
-
-
-
-###  portafolio PRO.
+#  portafolio PRO.
 
 ---
 
@@ -204,6 +86,8 @@ Sistema conceptual de gestión para tiendas de conveniencia.
 - Implementación frontend sin backend (demo local)
 - Enfoque en accesibilidad para pequeñas tiendas
 ```
+https://github.com/ozclef/tiendas3e-home
+
 
 ---
 
@@ -218,9 +102,11 @@ Sistema de control de caducidades e inventario.
 - Implementación para entorno académico y prototipos empresariales
 ```
 
----
+https://github.com/ozclef/tiendas3e-mart-
 
-## 🏫 3. Proyecto académico aplicado (caso universidad / tiendas)
+
+
+#### 🏫 Este proyecto académico aplicado (caso universidad / tiendas)
 
 ```md
 Sistema propuesto para resolver problemas de inventario en comercios.
@@ -233,7 +119,83 @@ Sistema propuesto para resolver problemas de inventario en comercios.
 
 ---
 
-# 🧠 4)  (importante)
+# 🧠 4.
+https://huachu-pets.vercel.app/
+
+Diseñado para un emprendedor de la ciudad local como demo.
+<img width="937" height="839" alt="image" src="https://github.com/user-attachments/assets/ffdd1d0f-0c32-4282-acc5-63a42f44b331" />
+
+Sólo hace carrito de compras local, envía WHATSAPP con el carito autom.
+
+Este JS, presenta la CONEXIÓN API_pk con Supabase para Crear base de datos mensajería:
+<img width="941" height="565" alt="image" src="https://github.com/user-attachments/assets/8e20372e-a2fd-424c-ab78-1392433f8895" />
+
+
+
+---
+
+# 5. CHAT WEBSOCKET p2p server efímero sin AUTH . 
+
+https://chat-us-omega.vercel.app/
+<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/457cca4b-9b6c-41b6-bb87-42a0d253682e" />
+
+
+```
+proceso Private
+urgentemente mandé email, correspondencia debido a situaciones personales
+testing
+chat
+mail
+email
+os
+presentations
+mensaje
+ 1 Updated on Aug 6
+contactos-os Private
+el sistema de caducidades es perfecto comienzo para usar como backend personal para un sistema de adedudo y clientes , o relaciones a bases de datos y empresas
+chat
+json
+list
+csv
+sql
+deploy
+p2p
+ HTML Updated on Jul 14
+chat-us Private
+chat us v0.02 by BIO-US / ozclef para vercel , sql src pero aun no exporta ni lee sql db aun no funcioan
+api
+chat
+sql
+websocket
+realtime
+p2p
+anon
+ JavaScript  1 Updated on Jul 4
+chat-p2p-efimero Public
+websocket chat realtime efimero p2p online anonimous created by me ozclef
+html
+chat
+sql
+web
+online
+websocket
+realtime
+ HTML  1 The Unlicense Updated on Jul 3
+us-chatting Private
+primera version de chat websocket sin ICE
+ Python Updated on Jul 2
+sql-auth-chat-market Private
+ HTML Updated on Jul 2
+market-socket-v1 Private
+market y chat back end para mis vendedores
+ HTML Updated on Jun 19
+bious-chatsocket Private
+ HTML  1 Updated on May 27
+```
+
+----
+
+
 
 ✔ convertiste problemas reales en software
 ✔ hiciste prototipos funcionales
@@ -246,9 +208,15 @@ Sistema propuesto para resolver problemas de inventario en comercios.
 # 💥 6) versión profesional de historia
 
 
+
+
+
+-----
 ```
 > he desarrollado sistemas ligeros orientados a inventario, automatización y prototipos de gestión desde 2018, con enfoque en soluciones prácticas para entornos educativos y pequeños negocios
 ```
+
+
 
 ___________
 

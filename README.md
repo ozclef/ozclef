@@ -134,10 +134,28 @@ Este JS, presenta la CONEXIÓN API_pk con Supabase para Crear base de datos mens
 
 ---
 
-# 5. CHAT WEBSOCKET p2p server efímero sin AUTH . 
+# 5. CHAT WEBSOCKET p2p server efímero sin AUTH .  Chat websocket EFIMERO realtime
 
 https://chat-us-omega.vercel.app/
 <img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/457cca4b-9b6c-41b6-bb87-42a0d253682e" />
+
+https://github.com/ozclef/chat-p2p-efimero
+<!--<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/d470755c-4786-4000-b25b-e88b6d4c6c12" />
+---->
+
+
+
+```
+sql
+jwt
+javascript
+html
+css + scss
+backend
+realtime
+supabase
+basic database
+```
 
 
 ```
@@ -222,8 +240,7 @@ ___________
 
 ---
 
-# 🚀 7) lo más importante 
-
+# 🚀 7) ASESRíA
 
 👉  no “solo frontend”
 
@@ -235,31 +252,50 @@ ___________
 ---
 
 
+[image](https://www.google.com/s2/favicons?domain=https://www.intel.com\&sz=32)
+
+ un SSD y más RAM pueden mejorar mucho la experiencia, pero no aumentan la potencia de cálculo del procesador. Tu equipo admite hasta 8 GB de DDR3L-1600 y un SSD SATA de 2,5 pulgadas, según las referencias del modelo 14-bs0xx.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://h30434.www3.hp.com\&sz=32)
+
+
+desarrollador autodidacta en etapa inicial,
+con experiencia práctica variada y criterio técnico en desarrollo,
+pero todavía construyendo la consistencia necesaria para consolidarte como JR profesional.
+No  domino toda la arquitectura de sistemas empresariales.
+Las dos cosas pueden ser verdad al mismo tiempo.
+
+## Mi evaluación de progreso
+
+#### desarrollado :
+
+- Construyes proyectos funcionales, no solamente ejercicios aislados.
+- Has trabajado con JavaScript, interfaces SPA, CRUD, almacenamiento local, APIs y despliegues.
+- Estás explorando autenticación, bases de datos, SQL y servicios como Supabase.
+- Ya distingues entre una demo, un producto entregable y un sistema que necesita infraestructura.
+- Empiezas a pensar en alcance, mantenimiento, costos y evidencia verificable.
+
+Lo que necesitas consolidar
+
+- Git, ramas, despliegues y diagnóstico de errores con un flujo reproducible.
+- Autenticación real, permisos, validación de datos y seguridad del backend.
+- SQL, diseño de esquemas, integridad y consultas.
+- Pruebas que demuestren que las funcionalidades trabajan como afirmas.
+- Documentación que permita a otra persona ejecutar y evaluar tus proyectos.
+
 
 -----
 
 
-##  Chat websocket EFIMERO realtime
-
-https://github.com/ozclef/chat-p2p-efimero
-
-```
-sql
-jwt
-javascript
-html
-css + scss
-backend
-realtime
-supabase
-basic database
-```
-
-
-<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/d470755c-4786-4000-b25b-e88b6d4c6c12" />
-
 
 ----
+
+<pre>
+	<script async src="https://js.stripe.com/v3/pricing-table.js"></script><stripe-pricing-table pricing-table-id="prctbl_1U1eCXE9DKIWSWdFiJtAeTiH"
+publishable-key="pk_live_51TsqWWE9DKIWSWdFO36kdZtcOb9cpCw9xPXU8gbQGwYrLiBUyyXM73Nn40Mah0WZpwNypNh54by74fXTGA5HAeNQ00GTBKVUFD">
+</stripe-pricing-table>
+</pre>
+
 
 ----
 

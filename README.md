@@ -1,24 +1,39 @@
-# HOLA: SI QUIERES SABER SOBRE COMO PROGRAMAR EN SERIO Y REAL EN MEXICO: 
+# HOLA: SI QUIERES SABER SOBRE COMO PROGRAMAR CON SERIEDAD EN TLAXCALA: 
 
 ##    Sigue leyendo:
 
 
+
+---
+
+# 🎓 EXPERIENCIA Y FORMACIÓN
+
+```md
+## Formación y experiencia
+
+- Formación técnica continua (2018 - presente)
+- Certificaciones en HTML, Java, SQL y MySQL Workbench
+- Certificación en Microsoft Excel (oficial)
+- Experiencia en docencia técnica (2025)
+  - Impartición de temas de desarrollo web y bases de datos
+```
+____
+
 ### 		 formación Academica 
 
+####  REPO:   https://github.com/ozclef/sep-docs-pdf
+
+
+https://ozclef.github.io/sep-docs-urls
 https://ozclef.github.io/sep-docs-urls 
 
 >Docs web- sep 
 	deployement branch main github
-	
 
-https://ozclef.github.io/sep-docs-urls
-
-">Educacion- sep 2</a></li>
-	deployement branch main netlify
-
+--------	
     
-https://github.com/ozclef/sep-docs-pdf
 
+	----
           
 
 ## OBJETIVO DE PROGRAMACIÓN
@@ -46,9 +61,30 @@ Apunta a quienes buscan saber cómo es el mercado laboral de verdad, lejos del "
 *   **experiencia real programador junior**
 *   **conseguir trabajo de programador sin experiencia**
 
+
+###  REPO DE TARIFAS POR SERVICIOS 100% EXPERIENCIA PERSONAL 
+
+REPOSITORIO OFICIAL PUBLIC 
+> https://github.com/ozclef/contrato-servicio
+____
+
+> WEBSITE DESPLEGADA CON TABLA DE PRODUCTOS & SERVICIOS 
+**Esta es la tabla de STRIPE**
+> esto presenta el codigo fiscal por productos && Servicios OFICIALES:
+Contratación  y medio de pago sólo a través de esta plataforma
+
+> https://ozclef.github.io/contrato-servicio/
+https://ozclef.github.io/contrato-servicio/
+
+
+<img width="844" height="1841" alt="image" src="https://github.com/user-attachments/assets/6b7c82a1-744b-4abc-9e00-07cedefe2404" />
+
 -----
 
-### 2\. Mitos vs. Realidad (Educación y Bootcamps)
+
+
+## 2\. Mitos vs. Realidad (Educación y Bootcamps)
+
 
 Ideal para quienes están dudando o se sienten abrumados por la publicidad engañosa de cursos milagro:
 
@@ -75,24 +111,7 @@ personas que buscan tomarse la carrera en serio y construir una base sólida:
 
 -----
 
-### Consejos para conectar con el público correcto:
 
-1.  **Intégralas de forma natural:**  
-    Los espectadores leen el inicio de la descripción para confirmar si el video responde a sus dudas. Explica brevemente qué experiencia compartes (por ejemplo: *"En este video te cuento mi experiencia real trabajando en desarrollo de software en México y por qué la programación requiere disciplina..."*).
-
-2.  **Títulos claros y honestos:**  
-    Títulos como [DEJA DE VER LA PROGRAMACIÓN COMO $$$, HAZLO POR TRABAJO SERIO]
-
-    https://youtu.be/82psEwQLCGM
-
-    (https://studio.youtube.com/video/82psEwQLCGM) o [ERRORES AL COMETER SIENDO PROGRAMADOR](https://studio.youtube.com/video/JsMawMSJjwo) tienen un mensaje muy directo.:
-
-    *   *La realidad de ser programador en México | Mi experiencia real*
-    *   *Lo que nadie te dice antes de aprender a programar*
-
-4.  **Usa capítulos con marcas de tiempo en la descripción:**
-
-5.   #  https://youtu.be/82psEwQLCGM
 
 PUEDO RESPONDER DUDAS INCLUSO EN VIVO Y DIRECTO EN YOUTUBE!" 
    echos y resultados medibles CON TOTAL EXPERIENCIA 
@@ -171,19 +190,6 @@ Experiencia en:
 
 ---
 
-# 🎓 EXPERIENCIA Y FORMACIÓN
-
-```md
-## Formación y experiencia
-
-- Formación técnica continua (2018 - presente)
-- Certificaciones en HTML, Java, SQL y MySQL Workbench
-- Certificación en Microsoft Excel (oficial)
-- Experiencia en docencia técnica (2025)
-  - Impartición de temas de desarrollo web y bases de datos
-```
-
----
 
 # 🧠 PROYECTOS 
 

@@ -3,6 +3,7 @@
 ##    Sigue leyendo:
 
 
+https://github.com/ozclef/cv
 
 ---
 
@@ -37,6 +38,8 @@ https://ozclef.github.io/sep-docs-urls
 
 https://oscarcruzdiaz.vercel.app/
 <img width="965" height="567" alt="Screenshot_15-10-2026_35521_oscarcruzdiaz vercel app" src="https://github.com/user-attachments/assets/721658de-5c5f-4e36-8854-28a496aac41e" />
+
+### CV REPO :   https://github.com/ozclef/cv
 
 >Repo privado SEGURIDAD .
 >FRAMEWORK js + json + SPA full stack

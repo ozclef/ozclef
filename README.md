@@ -3,6 +3,15 @@
 ##    Sigue leyendo:
 
 
+```py
+import os
+p="/mnt/data/mickey mouse taller ad oscar dev edit xD.mp4"
+os.path.exists(p), os.path.getsize(p) if os.path.exists(p) else None
+```
+
+<img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
+
+
 https://github.com/ozclef/cv
 
 ---

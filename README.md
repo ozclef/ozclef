@@ -155,7 +155,7 @@ necesita consolidar
 
 <img width="844" height="1841" alt="Screenshot_15-10-2026_3249_ozclef github io" src="https://github.com/user-attachments/assets/32e1e5f1-b003-4231-9e45-dc3094a5c19d" />
 
-<iframe src="https://ozclef.github.io/contrato-servicio/" width" ></iframe>
+<iframe src="https://ozclef.github.io/contrato-servicio/" width="844" height="1841"></iframe>
 
 ### LAS TARIFAS Y SERVICIOS SON DEMASIADO PRECISAS Y PERSONALIZADAS PARA CADA PERSONA O EMPRESA SGÚN LAS NECESIDADES:
 

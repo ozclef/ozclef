@@ -2,13 +2,6 @@
 
 ##    Sigue leyendo:
 
-<iframe width="315" height="576" src="https://www.youtube.com/embed/zYCvc94JqTU" title="ad marketing de devs tech 🤣💻🥺📲 #api #humor #backend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-```py
-import os
-p="/mnt/data/mickey mouse taller ad oscar dev edit xD.mp4"
-os.path.exists(p), os.path.getsize(p) if os.path.exists(p) else None
-```
 
 <img width="676" height="423" alt="Screenshot_17-10-2026_04554_chatgpt com" src="https://github.com/user-attachments/assets/badc1409-9139-4d89-bc2b-c52ec1106b5b" />
 
@@ -135,7 +128,7 @@ necesita consolidar
 
 <img width="844" height="1841" alt="Screenshot_15-10-2026_3249_ozclef github io" src="https://github.com/user-attachments/assets/32e1e5f1-b003-4231-9e45-dc3094a5c19d" />
 
-<iframe src="https://ozclef.github.io/contrato-servicio/"></iframe>
+<iframe src="https://ozclef.github.io/contrato-servicio/" width" ></iframe>
 
 ### LAS TARIFAS Y SERVICIOS SON DEMASIADO PRECISAS Y PERSONALIZADAS PARA CADA PERSONA O EMPRESA SGÚN LAS NECESIDADES:
 
@@ -153,6 +146,18 @@ Los costos nunca serán los mismos si la arquitectura de software cambia algún 
 ---
 
 
+
+```py
+import os
+p="/mnt/data/mickey mouse taller ad oscar dev edit xD.mp4"
+os.path.exists(p), os.path.getsize(p) if os.path.exists(p) else None
+```
+
+
+<section>
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/zYCvc94JqTU" title="ad marketing de devs tech 🤣💻🥺📲 #api #humor #backend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
 ----
 
 
@@ -223,6 +228,7 @@ Este JS, presenta la CONEXIÓN API_pk con Supabase para Crear base de datos mens
 # 5. CHAT WEBSOCKET p2p server efímero sin AUTH .  Chat websocket EFIMERO realtime
 
 https://chat-us-omega.vercel.app/
+
 <img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/457cca4b-9b6c-41b6-bb87-42a0d253682e" />
 
 https://github.com/ozclef/chat-p2p-efimero

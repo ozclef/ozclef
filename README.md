@@ -7,21 +7,21 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">
-		<link rel="icon" href="/hacker02.jpeg">
-	<!---
-	favicon.ico">
-	---->
-<title> Oscar CD - Dev</title>
-<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
-<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	
-	<!----
 	<link rel="stylesheet" href="css/img.css">
 	<link rel="stylesheet" href="css/cv.css">
 	<link rel="stylesheet" href="css/rgb.css">
 	<link rel="stylesheet" href="css/market.css">
 	<link rel="stylesheet" href="css/aside.css">
 	<link rel="stylesheet" href="css/style.css">
+		<link rel="icon" href="/hacker02.jpeg">
+<title> Oscar CD - Dev</title>
+<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
+<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	
+	<!---
 	----->
+	<!----
+	favicon.ico">
+	---->
 
 # HOLA: SI QUIERES SABER SOBRE COMO PROGRAMAR CON SERIEDAD EN TLAXCALA: 
 

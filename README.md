@@ -1,7 +1,10 @@
 # REPO README 1- for this account RESUME: Oscar Cruz Díaz - Tlax.
+	
 ----
+
 <meta property="og:title" content="Oscar Cruz Díaz">
 	<meta property="og:description" content="Desarrollador Web">
+	<!---
 	<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">
 	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
 	<meta charset="utf-8" />
@@ -17,7 +20,6 @@
 <title> Oscar CD - Dev</title>
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	
-	<!---
 	----->
 	<!----
 	favicon.ico">

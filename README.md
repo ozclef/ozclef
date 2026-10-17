@@ -9,7 +9,7 @@ p="/mnt/data/mickey mouse taller ad oscar dev edit xD.mp4"
 os.path.exists(p), os.path.getsize(p) if os.path.exists(p) else None
 ```
 
-<img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
+<img width="676" height="423" alt="Screenshot_17-10-2026_04554_chatgpt com" src="https://github.com/user-attachments/assets/badc1409-9139-4d89-bc2b-c52ec1106b5b" />
 
 
 https://github.com/ozclef/cv
@@ -30,6 +30,9 @@ https://github.com/ozclef/cv
 ____
 
 ### 		 formación Academica 
+
+<img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
+
 
 ####  REPO:   https://github.com/ozclef/sep-docs-pdf
 

@@ -14,33 +14,6 @@ https://github.com/ozclef/cv
 
 ---
 
-# 🎓 EXPERIENCIA Y FORMACIÓN
-
-```md
-## Formación y experiencia
-
-- Formación técnica continua (2018 - presente)
-- Certificaciones en HTML, Java, SQL y MySQL Workbench
-- Certificación en Microsoft Excel (oficial)
-- Experiencia en docencia técnica (2025)
-  - Impartición de temas de desarrollo web y bases de datos
-```
-____
-
-### 		 formación Academica 
-
-<img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
-
-
-####  REPO:   https://github.com/ozclef/sep-docs-pdf
-
-
-https://ozclef.github.io/sep-docs-urls
-https://ozclef.github.io/sep-docs-urls 
-
->Docs web- sep 
-	deployement branch main github
-
 -----
 
 
@@ -119,6 +92,43 @@ necesita consolidar
 ---
 
 
+# 🎓 EXPERIENCIA Y FORMACIÓN
+
+```md
+## Formación y experiencia
+
+- Formación técnica continua (2018 - presente)
+- Certificaciones en HTML, Java, SQL y MySQL Workbench
+- Certificación en Microsoft Excel (oficial)
+- Experiencia en docencia técnica (2025)
+  - Impartición de temas de desarrollo web y bases de datos
+```
+____
+
+### 		 formación Academica 
+
+<img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
+
+
+####  REPO: FORMACIÓN ACADÉMICA GOB MX  2016 - 2026
+
+
+https://github.com/ozclef/sep-docs-pdf
+
+https://ozclef.github.io/sep-docs-urls
+https://ozclef.github.io/sep-docs-urls 
+
+>Docs web- sep 
+	deployement branch main github
+
+
+--------
+
+----
+-------
+
+
+
 -----
 
 # 🚀    TARIFA por servicios RFC FACTURA  y codigos 
@@ -134,6 +144,8 @@ necesita consolidar
 
 <iframe src="https://ozclef.github.io/contrato-servicio/" width="844" height="1841"></iframe>
 
+
+
 ### LAS TARIFAS Y SERVICIOS SON DEMASIADO PRECISAS Y PERSONALIZADAS PARA CADA PERSONA O EMPRESA SGÚN LAS NECESIDADES:
 
 Los costos nunca serán los mismos si la arquitectura de software cambia algún aspecto.
@@ -148,6 +160,10 @@ Los costos nunca serán los mismos si la arquitectura de software cambia algún 
 * applied software solutions
 
 ---
+
+
+
+
 
 
 

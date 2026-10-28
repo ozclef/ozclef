@@ -2,19 +2,24 @@
 	
 ----
 
-# HOLA: SI QUIERES SABER SOBRE COMO PROGRAMAR CON SERIEDAD EN TLAXCALA: 
-
+# HOLA: COMO PROGRAMAR CON SERIEDAD EN TLAXCALA: 
 ##    Sigue leyendo:
 
+### REPOSITORIOS INDICE info profesional Oscar
 
-<img width="676" height="423" alt="Screenshot_17-10-2026_04554_chatgpt com" src="https://github.com/user-attachments/assets/badc1409-9139-4d89-bc2b-c52ec1106b5b" />
-
-
-https://github.com/ozclef/cv
+> CV + PORTAFOLIO
+> FORMACIÖN
+> REPOS DE DOCENCIA \ Experiencia \ Students \ Jobs
 
 ---
 
 -----
+
+#  portafolio.
+
+
+https://github.com/ozclef/cv
+
 
 
 ## WEBSITE CV REPO + Framework SPA diseño personal
@@ -28,12 +33,10 @@ https://oscarcruzdiaz.vercel.app/
 >FRAMEWORK js + json + SPA full stack
 >
 
-####  WEBSITE BLOG PERSONAL ONLY PEOPLE I KNOW
-
 ------
 
 
-#  portafolio PRO.
+
 
 ---
 
@@ -166,6 +169,10 @@ Los costos nunca serán los mismos si la arquitectura de software cambia algún 
 
 
 
+<img width="676" height="423" alt="Screenshot_17-10-2026_04554_chatgpt com" src="https://github.com/user-attachments/assets/badc1409-9139-4d89-bc2b-c52ec1106b5b" />
+
+
+
 
 ```py
 import os
@@ -206,6 +213,7 @@ repositorio  ---> https://github.com/ozclef/cshtml-autos-mongo
 
 ----
 
+----
 
 
 # Nota de implementación

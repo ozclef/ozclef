@@ -2,29 +2,6 @@
 	
 ----
 
-<meta property="og:title" content="Oscar Cruz Díaz">
-	<meta property="og:description" content="Desarrollador Web">
-	<!---
-	<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">
-	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">
-	<link rel="stylesheet" href="css/img.css">
-	<link rel="stylesheet" href="css/cv.css">
-	<link rel="stylesheet" href="css/rgb.css">
-	<link rel="stylesheet" href="css/market.css">
-	<link rel="stylesheet" href="css/aside.css">
-	<link rel="stylesheet" href="css/style.css">
-		<link rel="icon" href="/hacker02.jpeg">
-<title> Oscar CD - Dev</title>
-<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
-<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	
-	----->
-	<!----
-	favicon.ico">
-	---->
-
 # HOLA: SI QUIERES SABER SOBRE COMO PROGRAMAR CON SERIEDAD EN TLAXCALA: 
 
 ##    Sigue leyendo:
@@ -94,7 +71,7 @@ https://oscarcruzdiaz.vercel.app/
 
 # 👤 PERFIL (README principal GitHub)
 
-```md
+## ```md
 ## Software Developer | Backend & Systems Automation
 
 Desarrollador enfocado en sistemas web, automatización y herramientas ligeras para gestión de datos e inventarios.
@@ -200,6 +177,7 @@ ___________
 
 https://github.com/ozclef/class-for-kids
 
+<img width="185" height="557" alt="image" src="https://github.com/user-attachments/assets/e8ef3870-2f11-4c39-b771-bfa58f73dd8c" />
 
 
 ----
@@ -219,4 +197,30 @@ El proyecto mantiene compatibilidad para futuras integraciones una vez cumplidos
 
 Fecha: 19 Junio 2026
 Autor: Oscar Cruz
+
+
+
+
+<meta property="og:title" content="Oscar Cruz Díaz">
+	<meta property="og:description" content="Desarrollador Web">
+	<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">
+	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">
+		<link rel="icon" href="/hacker02.jpeg">
+<title> Oscar CD - Dev</title>
+<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
+<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	
+	<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/cv.css">
+	<!---
+		<link rel="stylesheet" href="chttps://oscarcruzdiaz.vercel.app/css/img.css">
+	<link rel="stylesheet" href="css/rgb.css">
+	<link rel="stylesheet" href="css/market.css">
+	<link rel="stylesheet" href="css/aside.css">
+	<link rel="stylesheet" href="css/style.css">
+	----->
+	<!----
+	favicon.ico">
+	---->
 

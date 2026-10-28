@@ -243,7 +243,7 @@ Autor: Oscar Cruz
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">
-		<link rel="icon" href="/hacker02.jpeg">
+		<link rel="icon" href="httpa://ozclef.vercel.app/hacker02.jpeg">
 <title> Oscar CD - Dev</title>
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/post.css">	

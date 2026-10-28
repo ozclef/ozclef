@@ -180,7 +180,12 @@ https://github.com/ozclef/class-for-kids
 <img width="185" height="557" alt="image" src="https://github.com/user-attachments/assets/e8ef3870-2f11-4c39-b771-bfa58f73dd8c" />
 
 
-----
+#### DURANTE LA MISMA DOCENCIA 2025 
+
+repositorio  ---> https://github.com/ozclef/cshtml-autos-mongo
+
+<img width="924" height="446" alt="image" src="https://github.com/user-attachments/assets/e1bfddb6-21b4-47dc-947b-bf954bc664d8" />
+
 
 
 ----

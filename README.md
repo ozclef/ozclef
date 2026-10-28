@@ -41,7 +41,7 @@ https://oscarcruzdiaz.vercel.app/
 ---
 
 
-<img width="664" height="982" alt="image" src="https://github.com/user-attachments/assets/66eea4c6-f80d-48a8-ae31-b7485d595eb4" />
+<!---img width="664" height="982" alt="image" src="https://github.com/user-attachments/assets/66eea4c6-f80d-48a8-ae31-b7485d595eb4" /--->
 
 ---
 
@@ -57,8 +57,9 @@ Experiencia en:
 - Backend básico (JSON, APIs, lógica de datos)
 - SQL y modelado de bases de datos
 - Sistemas ligeros offline-first (localStorage / prototipos)
-```
-```md
+
+
+
 [image](https://www.google.com/s2/favicons?domain=https://www.intel.com\&sz=32)
 
  un SSD y más RAM pueden mejorar mucho la experiencia, pero no aumentan la potencia de cálculo del procesador. Tu equipo admite hasta 8 GB de DDR3L-1600 y un SSD SATA de 2,5 pulgadas, según las referencias del modelo 14-bs0xx.&#x20;
@@ -92,12 +93,15 @@ necesita consolidar
 
 
 ```
+
+```
 ---
 
 
 # 🎓 EXPERIENCIA Y FORMACIÓN
 
 ```md
+```
 ## Formación y experiencia
 
 - Formación técnica continua (2018 - presente)
@@ -105,6 +109,8 @@ necesita consolidar
 - Certificación en Microsoft Excel (oficial)
 - Experiencia en docencia técnica (2025)
   - Impartición de temas de desarrollo web y bases de datos
+```
+
 ```
 ____
 

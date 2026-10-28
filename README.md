@@ -196,6 +196,10 @@ ___________
 
 -----
 
+## REPO DOCENCIA ICO 2025 -- for my students 
+
+https://github.com/ozclef/class-for-kids
+
 
 
 ----

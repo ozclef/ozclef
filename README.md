@@ -20,6 +20,16 @@
 #  portafolio.
 
 
+```txt
+Los commits pueden documentar cambios a lo largo del tiempo.
+Los repositorios muestran código, documentación y decisiones técnicas.
+Las demostraciones permiten comprobar funcionalidades.
+Las pruebas muestran comportamientos concretos.
+Los README explican qué hiciste, qué falta y cómo reproducir los resultados.
+```
+
+
+
 https://github.com/ozclef/cv
 
 

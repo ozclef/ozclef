@@ -48,7 +48,7 @@ async function loadJSON(path){
 
   let html = `
   <header>
-    <div><strong><a href="https://oscarcruzdiaz.vercel.app">Oscar Cruz Díaz</a></strong></div>
+    <div><strong><a href="./">Oscar Cruz Díaz</a></strong></div>
     <nav>
     <a href="#/feed">Feed</a>
     <a href="#/profile">Perfil</a>

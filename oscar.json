@@ -1,0 +1,11 @@
+{
+  "id": "oscar",
+  "repo": "https://github.com/ozclef/ozclef",
+  "title": "Oscar Github",
+  "description": "Repositorios, Documetación completa y verificable, Proyectos y contenido de datos personales",
+  "image": "./assets/inventario.webp",
+  "readme": "https://raw.githubusercontent.com/ozclef/ozclef/main/README.md",
+  "url": "https://oscarcruzdiaz.vercel.app",
+  "category": "Sistema web",
+  "status": "documented"
+}

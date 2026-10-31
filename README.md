@@ -114,7 +114,7 @@ necesita consolidar
 
 ```md
 ```
-## Formación y experiencia
+## Formación Academica y experiencia
 
 - Formación técnica continua (2018 - presente)
 - Certificaciones en HTML, Java, SQL y MySQL Workbench
@@ -126,22 +126,26 @@ necesita consolidar
 ```
 ____
 
-### 		 formación Academica 
+###  formación 
 
 <img width="556" height="293" alt="Screenshot_17-10-2026_05012_chatgpt com" src="https://github.com/user-attachments/assets/63abd474-f80f-46c0-babf-c1d820bba6a2" />
 
 
-####  REPO: FORMACIÓN ACADÉMICA GOB MX  2016 - 2026
+####  REPO: FORMACIÓN ACADÉMICA prepaenlinea.sep.gob.mx   2016 - 2026
 
+
+>Docs web- sep 
+	deployement branch main github
 
 https://github.com/ozclef/sep-docs-pdf
 
 https://ozclef.github.io/sep-docs-urls
 https://ozclef.github.io/sep-docs-urls 
 
->Docs web- sep 
-	deployement branch main github
 
+https://sep-docs-pdf.oscar-cdzz-14.workers.dev/
+
+https://sep-docs-pdf.oscar-cdzz-14.workers.dev/
 
 --------
 

@@ -1,0 +1,11 @@
+{
+  "id": "tiendas3e",
+  "repo": "https://github.com/ozclef/caducidades",
+  "title": "Sistema de inventario",
+  "description": "Sistema de inventario y control de caducidades.",
+  "image": "./assets/inventario.webp",
+  "readme": "https://raw.githubusercontent.com/ozclef/caducidades-3e/main/README.md",
+  "url": "https://example.vercel.app",
+  "category": "Sistema web",
+  "status": "documented"
+}

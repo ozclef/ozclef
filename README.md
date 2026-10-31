@@ -1,9 +1,261 @@
 # REPO README 1- for this account RESUME: Oscar Cruz Díaz - Tlax.
-	
-----
 
-# HOLA: AQUI SE ENCUENTRA MI DOCUMENTACIÓN SOBRE COMO PROGRAMAR DESDE CERO: 
 
+
+## README — tu entorno de desarrollo
+
+
+
+
+#### HOLA: AQUI SE ENCUENTRA MI DOCUMENTACIÓN SOBRE COMO PROGRAMAR DESDE CERO: 
+
+
+
+# Development Environment & Engineering Roadmap
+
+
+
+ LISTA DE TECNOLOGÍAS.
+ 
+ No inscrito actualmente en un instituto para documentar tu formación técnica, aprendizaje autónomo y tu experiencia práctica. Son apartados distintos.
+
+Docker, Linux, CI/CD, Python, SQL, SSH y toda la nube si todavía estás aprendiendo. Debe mostrar qué ya implementaste, qué estás explorando y hacia dónde estás construyendo.
+
+Yo lo titularía Development Environment & Engineering Roadmap. Separado completamente del expediente ICO.
+
+**Oscar Cruz Díaz · Os Clef / ozclef**
+
+Desarrollo web, automatización, integración de servicios, despliegue de aplicaciones y aprendizaje de infraestructura.
+
+Actualmente desarrollo proyectos de manera independiente, utilizando GitHub como centro de control de versiones, documentación, colaboración y evolución técnica.
+
+Mi objetivo es construir aplicaciones web funcionales y comprender progresivamente toda su infraestructura: desde el desarrollo local hasta la integración, seguridad, automatización y despliegue.
+
+Este repositorio documenta mi entorno de desarrollo, tecnologías implementadas, experimentación técnica y ruta de aprendizaje.
+
+---
+
+## 1. Entorno y herramientas
+
+| Tecnología | Uso / enfoque                                        |
+| ---------- | ---------------------------------------------------- |
+| HTML5      | Estructura de aplicaciones web                       |
+| CSS3       | Interfaces y diseño adaptable                        |
+| JavaScript | Lógica e interactividad                              |
+| JSON       | Datos y configuración                                |
+| Git        | Control de versiones                                 |
+| GitHub     | Repositorios, documentación y colaboración           |
+| VS Code    | Entorno de desarrollo                                |
+| PowerShell | Administración y automatización local                |
+| Linux      | Exploración de entornos y administración de sistemas |
+
+## 2. Control de versiones y colaboración
+
+Trabajo con Git y GitHub para:
+
+- Crear y mantener repositorios.
+- Administrar ramas y commits.
+- Actualizar nombres y estructuras de proyectos.
+- Documentar cambios mediante README.
+- Organizar proyectos experimentales, educativos y funcionales.
+- Mantener un historial de desarrollo y despliegues.
+
+## 3. Hosting y despliegue
+
+He implementado y explorado despliegues de proyectos web mediante diferentes plataformas:
+
+- **Vercel:** despliegue de proyectos web.
+- **Render:** publicación de aplicaciones y sitios.
+- **Cloudflare:** despliegue y exploración de servicios web.
+
+Objetivo: comprender las diferencias entre hosting estático, aplicaciones ejecutadas en servidor, dominios, DNS, HTTPS y servicios de infraestructura.
+
+## 4. Automatización y CI/CD
+
+Actualmente estoy construyendo conocimientos para automatizar el ciclo de desarrollo.
+
+Áreas de implementación y aprendizaje:
+
+- GitHub Actions.
+- Workflows mediante archivos YAML.
+- Integración continua (CI).
+- Entrega y despliegue continuo (CD).
+- Validación automática de proyectos.
+- Ejecución de pruebas.
+- Automatización de builds.
+- Despliegues vinculados a ramas y eventos de Git.
+
+**Objetivo:** desarrollar pipelines reutilizables para reducir tareas manuales y mantener consistencia entre repositorios.
+
+## 5. Bases de datos y servicios backend
+
+Exploro la integración de aplicaciones web con servicios de datos y APIs.
+
+Tecnologías y conceptos:
+
+- SQL y PostgreSQL.
+- Python.
+- APIs REST.
+- Supabase.
+- Autenticación y autorización.
+- Row Level Security (RLS).
+- Variables de entorno.
+- Gestión de credenciales y claves de API.
+- Persistencia de datos y control de acceso.
+
+Mi objetivo es comprender cómo diseñar servicios backend propios y cómo integrar servicios administrados sin perder de vista la seguridad y el control de los datos.
+
+## 6. Infraestructura y administración de sistemas
+
+Área de aprendizaje en desarrollo:
+
+- Linux y administración de entornos.
+- Docker y contenedores.
+- Configuración de servidores.
+- SSH y autenticación mediante llaves.
+- Gestión de secretos y variables de entorno.
+- Servicios y procesos.
+- Redes, puertos y conectividad.
+- Configuración de entornos de desarrollo y producción.
+- Despliegues y administración de aplicaciones.
+
+**Objetivo a largo plazo:** poder preparar infraestructura desde cero, comprender sus componentes y desplegar aplicaciones de forma reproducible.
+
+## 7. Seguridad y buenas prácticas
+
+Líneas de trabajo:
+
+- Separación de entornos de desarrollo y producción.
+- Protección de credenciales.
+- Uso adecuado de variables de entorno.
+- Gestión de secretos en plataformas de despliegue.
+- Control de acceso a bases de datos.
+- Políticas RLS.
+- Uso responsable de claves públicas y privadas.
+- Protección de repositorios y datos personales.
+
+## 8. Objetivos de desarrollo
+
+1. Consolidar una plantilla reutilizable para nuevos proyectos web.
+2. Automatizar validaciones mediante GitHub Actions.
+3. Implementar pipelines CI/CD.
+4. Profundizar en Python y PostgreSQL.
+5. Construir servicios backend propios.
+6. Implementar autenticación y autorización seguras.
+7. Aprender Docker y administración de Linux.
+8. Configurar servidores y despliegues mediante SSH.
+9. Comprender la infraestructura completa de una aplicación web.
+
+---
+
+## Filosofía de trabajo
+
+Aprendizaje práctico, documentación, experimentación y reutilización.
+
+No busco únicamente publicar páginas web: quiero comprender cómo funcionan las aplicaciones, sus servicios, sus datos y la infraestructura que permite mantenerlas disponibles.
+
+**Estado:** aprendizaje autónomo y desarrollo continuo.
+
+**Portafolio:** [https://oscarcruzdiaz.vercel.app/](https://oscarcruzdiaz.vercel.app/)
+
+**GitHub:** [https://github.com/ozclef](https://github.com/ozclef)
+
+## 2. Lo que estás construyendo realmente
+
+Mira cómo se conectan las piezas que mencionaste:
+
+## Tu ruta técnica
+
+1. Desarrollo
+
+   HTML · CSS · JavaScript · JSON · APIs
+
+   Experiencia práctica
+2. Control de versiones
+
+   Git · GitHub · ramas · commits · documentación
+
+   Uso práctico
+3. Despliegue
+
+   Vercel · Render · Cloudflare
+
+   Ya implementado
+4. Automatización
+
+   GitHub Actions · YAML · CI/CD · workflows
+
+   En desarrollo
+5. Datos y backend
+
+   Python · SQL · PostgreSQL · APIs · Auth · RLS
+
+   Aprendizaje e implementación progresiva
+6. Infraestructura
+
+   Linux · Docker · SSH · servidores · redes
+
+   Ruta de aprendizaje
+
+## 3. ¿Qué otras piezas te faltan por explorar?
+
+Estas son las que conectan tu objetivo de montar infraestructura de cero:
+
+| Área           | Conceptos que debes investigar                      |
+| -------------- | --------------------------------------------------- |
+| Automatización | GitHub Actions, YAML, triggers, jobs, artifacts     |
+| Configuración  | `.env`, secrets, environments, variables            |
+| Seguridad      | SSH keys, permisos, tokens, RLS, IAM                |
+| Redes          | DNS, puertos, HTTP/HTTPS, TLS, firewall             |
+| Servidores     | Linux, procesos, logs, servicios                    |
+| Contenedores   | Dockerfile, imágenes, volúmenes, redes              |
+| Bases de datos | PostgreSQL, roles, migraciones, backups             |
+| Calidad        | Testing, linting, validaciones, rollback            |
+| APIs           | REST, JSON, autenticación, CORS                     |
+| Operación      | Monitoreo, disponibilidad, registros y recuperación |
+
+Una precisión importante: las claves de Supabase no son todas iguales. La clave publicable puede utilizarse desde el navegador bajo las políticas adecuadas; una `service_role` o clave secreta jamás debe exponerse en el frontend. Y RLS debe estar correctamente configurado para proteger los datos.
+
+## 4. Mi propuesta: tu primer proyecto de infraestructura
+
+No empezaría por Docker todavía. Primero haría que GitHub automatice algo real.
+
+Proyecto: `dev-workflow`
+
+Primer objetivo
+
+Una plantilla que puedas reutilizar en tus siguientes proyectos.
+
+```
+dev-workflow/
+├── .github/
+│   └── workflows/
+│       ├── validate.yml
+│       └── deploy.yml
+├── templates/
+│   └── static-web/
+├── docs/
+│   ├── deployment.md
+│   └── security.md
+├── scripts/
+├── README.md
+└── .gitignore
+```
+
+Primera meta:
+
+- Validar estructura del proyecto.
+- Ejecutar workflow al hacer push.
+- Comprobar que no se suban archivos sensibles.
+- Ejecutar validaciones automáticas.
+- Conectar un despliegue.
+- Documentar el resultado.
+
+Y algo que quiero que tengas presente: tu portafolio no tiene que demostrar que ya sabes montar toda una infraestructura empresarial. Tiene que demostrar que sabes construir, investigar, implementar, documentar y mejorar sistemas.
+
+Eso es mucho más honesto y defendible en una entrevista técnica.
+
+Tu siguiente salto no es aprender veinte tecnologías simultáneamente: es conectar las que ya estás utilizando en un flujo real. 😁
 
 ##    Sigue leyendo:
 
